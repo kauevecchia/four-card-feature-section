@@ -30,6 +30,34 @@ body {
     margin-right: auto;
 }
 
+header {
+    padding-top: 70px;
+    text-align: center;
+    line-height: 1.6;
+}
+
+header h1 {
+    font-size: 27px;
+    font-weight: 300;
+    color: var(--grayishBlue);
+}
+
+header h2 {
+    font-size: 27px;
+    color: var(--veryDarkBlue);
+    margin-top: 8px;
+    margin-bottom: 12px;
+}
+
+header p {
+    color: var(--grayishBlue);
+    font-size: 17px;
+    font-weight: 300;
+    width: 100%;
+    max-width: 555px;
+    margin: 0 auto;
+}
+
 @media (min-width: 576px) {
     .container {
         width: 540px;
