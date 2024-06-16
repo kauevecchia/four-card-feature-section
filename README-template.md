@@ -4,8 +4,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
+
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
